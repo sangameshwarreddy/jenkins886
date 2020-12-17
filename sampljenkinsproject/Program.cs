@@ -12,7 +12,7 @@ namespace sampljenkinsproject
         {
             
             Console.WriteLine("hello jenkins"  );
-            Console.WriteLine("hello jenkins"  )
+            Console.WriteLine("hello jenkins"  );
         }
     }
 }
